@@ -1,1 +1,1 @@
-WPF APP (XAML, Web service, Entity framework)
+WPF APP (XAML, Service, Entity framework)
